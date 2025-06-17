@@ -47,6 +47,7 @@ The **AdventureWorks Sales Analysis Dashboard** offers a comprehensive view of k
     - The United States recorded the highest sales among all country/regions, totaling $52 million, demonstrating its dominant contribution to overall revenue.
     - Bike segment recorded the highest Sales compare to other segments.
 ---
+![Dashboard Screenshot3](adventure_works/ADVENTURE_WORK_page-0003.jpg)
 
 - Financial Month 5 (August) contributed 12.44% to the total sum of sales, making it one of the key months in overall revenue performance.
 - Bikes in Color black made up 11.87% of Sum of Quantity.

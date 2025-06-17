@@ -48,37 +48,35 @@ The **AdventureWorks Sales Analysis Dashboard** offers a comprehensive view of k
     - Bike segment recorded the highest Sales compare to other segments.
 ---
 
-![Dashboard Screenshot3](adventure_works/ADVENTURE_WORK_page-0003.jpg)
-
-    - Financial Month 5 (August) contributed 12.44% to the total sum of sales, making it one of the key months in overall revenue performance.
-    - Bikes in Color black made up 11.87% of Sum of Quantity.
-    - Bike Category made up highest Sales in 2019.
+- Financial Month 5 (August) contributed 12.44% to the total sum of sales, making it one of the key months in overall revenue performance.
+- Bikes in Color black made up 11.87% of Sum of Quantity.
+- Bike Category made up highest Sales in 2019.
 --- 
 
 ![Dashboard Screenshot4](adventure_works/ADVENTURE_WORK_page-0004.jpg)
 
-    - Highest Sales in Toronto, followed by London, Seattle, Paris.
-    - Also, Matrix of top 3 resellers by category and year.
-    - The bike category gives highest Sales Contribution at 82.71% of the total.
+- Highest Sales in Toronto, followed by London, Seattle, Paris.
+- Also, Matrix of top 3 resellers by category and year.
+- The bike category gives highest Sales Contribution at 82.71% of the total.
 ---
 
 ![Dashboard Screenshot5](adventure_works/ADVENTURE_WORK_page-0005.jpg)
 
-    - Jillion Carsen achieved the highest percentage of target met, demonstrating outstanding sales performance compared to other representatives.
-    - The Warehouse business type had the highest total count of ResellerKey at 25,391, followed by Value Added Reseller with 22,802 and Specialty Bike Shop with 7,362.
-    - Within the Warehouse segment, the Southwest region contributed 10.98% of the total ResellerKey count.
-    - On average, Warehouse also led with 2,539.1 ResellerKeys, ahead of Value Added Reseller (2,280.2) and Specialty Bike Shop (736.2).
-    - Weekdays generated higher sales compared to weekends, indicating stronger customer engagement during the workweek.
+- Jillion Carsen achieved the highest percentage of target met, demonstrating outstanding sales performance compared to other representatives.
+- The Warehouse business type had the highest total count of ResellerKey at 25,391, followed by Value Added Reseller with 22,802 and Specialty Bike Shop with 7,362.
+- Within the Warehouse segment, the Southwest region contributed 10.98% of the total ResellerKey count.
+- On average, Warehouse also led with 2,539.1 ResellerKeys, ahead of Value Added Reseller (2,280.2) and Specialty Bike Shop (736.2).
+- Weekdays generated higher sales compared to weekends, indicating stronger customer engagement during the workweek.
 ---
 
 ![Dashboard Screenshot6](adventure_works/ADVENTURE_WORK_page-0006.jpg)
 
-    - Quantity Percentage trended up, resulting in a 204.07% increase between 2017 and 2020.
-    - By 2020, the target deviation decreased to 25.87, accompanied by total sales reaching $74.12 million, reflecting improved alignment with sales goals.
-    - Group A Colors have highest sales compare to other groups.
-        - Group A : Blue, Black, NA
-        - Group B : Multi, Red, Silver 
-        - Group C: Silver/Black, White, Yellow  
+- Quantity Percentage trended up, resulting in a 204.07% increase between 2017 and 2020.
+- By 2020, the target deviation decreased to 25.87, accompanied by total sales reaching $74.12 million, reflecting improved alignment with sales goals.
+- Group A Colors have highest sales compare to other groups.
+    - Group A : Blue, Black, NA
+    - Group B : Multi, Red, Silver 
+    - Group C: Silver/Black, White, Yellow  
 ---
 
 ## 📝 How to Use

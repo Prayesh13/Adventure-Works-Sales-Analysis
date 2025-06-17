@@ -1,4 +1,4 @@
-# 📊 Adventure Works Sales Analysis
+# 📊 [Adventure Works Sales Analysis](https://app.powerbi.com/view?r=eyJrIjoiMDgzNmExM2UtNzIyMy00NmE0LTg4MWYtOWVjMWRmZDFiZWNlIiwidCI6IjFkOTM3YmRjLTU5MDgtNDY4YS1hYjFmLTQ0OTNlNjgwOWE3NSJ9)
 
 This Power BI project analyzes the sales data from the AdventureWorks database to uncover trends, evaluate performance metrics, and support data-driven decision-making for stakeholders.
 
